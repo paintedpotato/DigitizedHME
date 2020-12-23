@@ -16,7 +16,7 @@ addpath '[insert dir]\MATLAB\Examples\R2019b\matlab\DeclareFunctionWithOneOutput
 YPrediction = [];
 real_YPrediction = [];
 indicator = 0;
-load('CNN40.mat'); % commented out
+load('CNN17.mat'); % commented out
 
 % Note a 0.6 threshold level is the one that worked best for my picture -
 % though the computed one via graythresh(rgb2gray()) was 0.7 which gave bad
