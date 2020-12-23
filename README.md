@@ -8,7 +8,7 @@ network adapted from SqueezeNet.
 Model 17 gave an accuracy of 87.5% on Kaggle's data, while model 22 gave an accuracy of 85.54%.
 
 The app developed performed far quicker than the online TextScanner (available here: https://play.google.com/store/apps/details?id=image.to.text.ocr&hl=en&gl=US)
-and had a greater accuracy than Office Lens (available: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en&gl=US) at recgnizing
+and had a greater accuracy than Office Lens (available: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en&gl=US) at recognizing
 handwritten equations written by seven participants.
 
 Message me on LinkedIn for full report
